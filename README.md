@@ -1,5 +1,5 @@
 # blackjack_api
-Description: Game of Blackjack created in Python, using the help of deckofcards api
+Description: Game of Blackjack created in Python, using the help of deckofcards api<br>
 Language: Python
 Project Type: school project
 Purpose: to explore benefits of using an API, as well as expand knowledge and experience with the functionalities of Python
